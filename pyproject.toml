@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "coursework_4"
+version = "0.1.0"
+description = ""
+authors = ["Maxim Belyakov <xxxxxxxxxx.123mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
